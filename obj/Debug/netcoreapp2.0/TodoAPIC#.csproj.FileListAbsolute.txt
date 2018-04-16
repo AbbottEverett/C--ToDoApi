@@ -1,0 +1,10 @@
+/Users/severettabbott/CodeProjects/TodoAPIC#/bin/Debug/netcoreapp2.0/TodoAPIC#.deps.json
+/Users/severettabbott/CodeProjects/TodoAPIC#/bin/Debug/netcoreapp2.0/TodoAPIC#.runtimeconfig.json
+/Users/severettabbott/CodeProjects/TodoAPIC#/bin/Debug/netcoreapp2.0/TodoAPIC#.runtimeconfig.dev.json
+/Users/severettabbott/CodeProjects/TodoAPIC#/bin/Debug/netcoreapp2.0/TodoAPIC#.dll
+/Users/severettabbott/CodeProjects/TodoAPIC#/bin/Debug/netcoreapp2.0/TodoAPIC#.pdb
+/Users/severettabbott/CodeProjects/TodoAPIC#/obj/Debug/netcoreapp2.0/TodoAPIC#.csproj.CoreCompileInputs.cache
+/Users/severettabbott/CodeProjects/TodoAPIC#/obj/Debug/netcoreapp2.0/TodoAPIC#.AssemblyInfoInputs.cache
+/Users/severettabbott/CodeProjects/TodoAPIC#/obj/Debug/netcoreapp2.0/TodoAPIC#.AssemblyInfo.cs
+/Users/severettabbott/CodeProjects/TodoAPIC#/obj/Debug/netcoreapp2.0/TodoAPIC#.dll
+/Users/severettabbott/CodeProjects/TodoAPIC#/obj/Debug/netcoreapp2.0/TodoAPIC#.pdb
